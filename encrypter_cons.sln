@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encrypter_cons", "encrypterCONSOLE\encrypter_cons.csproj", "{0DCD198D-9E43-4AC2-80C5-E6D6B336FC87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encrypter_cons.Tests", "encrypterCONSOLE.Tests\encrypter_cons.Tests.csproj", "{4E42A99D-835D-48AC-9972-2619B26D9BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DCD198D-9E43-4AC2-80C5-E6D6B336FC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCD198D-9E43-4AC2-80C5-E6D6B336FC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCD198D-9E43-4AC2-80C5-E6D6B336FC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCD198D-9E43-4AC2-80C5-E6D6B336FC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E42A99D-835D-48AC-9972-2619B26D9BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E42A99D-835D-48AC-9972-2619B26D9BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E42A99D-835D-48AC-9972-2619B26D9BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E42A99D-835D-48AC-9972-2619B26D9BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {908E25BF-4A15-4904-B0DB-5E0311D44BEC}
+	EndGlobalSection
+EndGlobal
